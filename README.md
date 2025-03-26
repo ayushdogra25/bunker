@@ -40,7 +40,7 @@ possibleBunks = attendedClasses - minimumClassesRequired;
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/class-bunk-calculator.git
+   git clone https://github.com/ayushdogra25/bunker.git
    ```
 
 2. Open `index.html` in your browser  
